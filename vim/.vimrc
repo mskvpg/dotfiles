@@ -1,6 +1,5 @@
 " Основное
 syntax on
-set number
 set encoding=utf-8
 
 " Отступы (YAML/Ansible)
@@ -20,6 +19,6 @@ set clipboard=unnamedplus
 
 " Удобства
 set noswapfile
-set pastetoggle=<F2>
+
 
 nnoremap <F3> :set number!<CR>
