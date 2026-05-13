@@ -8,12 +8,14 @@
 
 
 # = Main commands Linux =
+
+``` bash
 file filename
 stat filename
 whoami
 id
 who
-
+```
 
 # = find grep xargs =
 find . -name "file.txt"
